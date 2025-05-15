@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287052139238",
+    "project_id": "walltutorial-6fa05",
+    "storage_bucket": "walltutorial-6fa05.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287052139238:android:5cef0e846ea3969e348927",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoc3QOr4bvMwuDOcnNNNDPoRlXGwkyABQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
